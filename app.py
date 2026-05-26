@@ -186,7 +186,7 @@ predict_btn = st.sidebar.button("🔮 Prediksi Sekarang")
 # ── Main Content ──────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-    <h1>🔮 Customer Churn Predictor - Arya Krisna Putra</h1>
+    <h1>🔮 Customer Churn Predictor</h1>
     <p>Model PyTorch (.pt) — Neural Network klasifikasi biner · Isi form di sidebar lalu klik Prediksi</p>
 </div>
 """, unsafe_allow_html=True)
